@@ -15,4 +15,9 @@ Hey there! I’m Sankalp Omprakash Pandey — a passionate and curious developer
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sankalp771&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### HACKTOBERFEST BADGE
+
+[![Hacktoberfest SuperContributer](https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp)](https://www.holopin.io/hacktoberfest2025/userbadge/cmhjjgfsy0175l10415wbf51u)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
