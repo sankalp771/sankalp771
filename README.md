@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I’m Sankalp Omprakash Pandey — a passionate and curious developer just starting off with fresh ideas.<br>I believe in learning by doing, and I love contributing to open-source projects, solving bugs, and improving documentation.<br>I recently participated in Hacktoberfest 2025, and completed multiple quality PRs — which helped me sharpen my coding, collaboration and version-control skills.<br>I enjoy experimenting with different technologies (Webdev,Agentic AI,Web3), building real-world projects, and I’m always open to collaborate, learn, and grow.
+Hey there! I’m Sankalp Omprakash Pandey — a passionate and curious developer just starting off with fresh ideas.<br>I believe in learning by doing, and I love contributing to open-source projects, solving bugs, and improving documentation.<br>I recently participated in Hacktoberfest 2025, and completed multiple quality PRs — which helped me sharpen my coding, collaboration and version-control skills.<br>I enjoy experimenting with different technologies (Webdev,Agentic AI,Web3,LLMs,MCP), building real-world projects, and I’m always open to collaborate, learn, and grow.
 
 
 ## 🌐 Socials:
