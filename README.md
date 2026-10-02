@@ -21,13 +21,13 @@ Hey there! I’m Sankalp Omprakash Pandey — a passionate and curious developer
 
 ### Open Source Contribution
 
-[Mipland](https://github.com/portdeveloper/mipland/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771) 
-[LearningUnlimited/esp-website](https://github.com/learning-unlimited/ESP-Website/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771)
-[Palisadoes Foundation/talawa](https://github.com/PalisadoesFoundation/talawa/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771)   
-[Vercel/ai](https://github.com/vercel/ai/issues?q=is%3Aissue+state%3Aclosed+author%3Asankalp771)
-[HXQLabs/helixque](https://github.com/HXQLabs/Helixque/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771)
-[HXQLabs/helixque-landing](https://github.com/HXQLabs/helixque-landing/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771)
-[SpendWise](https://github.com/Limeload/SpendWise/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771)
-[CodechefVIT](https://github.com/CodeChefVIT/papers-codechef/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771)
+[Mipland](https://github.com/portdeveloper/mipland/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771) ,
+[LearningUnlimited/esp-website](https://github.com/learning-unlimited/ESP-Website/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771) ,
+[Palisadoes Foundation/talawa](https://github.com/PalisadoesFoundation/talawa/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771)  , 
+[Vercel/ai](https://github.com/vercel/ai/issues?q=is%3Aissue+state%3Aclosed+author%3Asankalp771) ,
+[HXQLabs/helixque](https://github.com/HXQLabs/Helixque/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771) ,
+[HXQLabs/helixque-landing](https://github.com/HXQLabs/helixque-landing/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771) ,
+[SpendWise](https://github.com/Limeload/SpendWise/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771) ,
+[CodechefVIT](https://github.com/CodeChefVIT/papers-codechef/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771) ,
 [CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext/pulls?q=is%3Apr+state%3Aclosed+author%3Asankalp771)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
